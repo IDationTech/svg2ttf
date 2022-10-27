@@ -26,10 +26,10 @@
   },
   "dependencies": {
     "argparse": "^2.0.1",
-    "cubic2quad": "^1.2.1",
+    "IDationTech/cubic2quad": "^1.2.1",
     "lodash": "^4.17.10",
     "microbuffer": "^1.0.0",
-    "svgpath": "^2.1.5",
+    "IDationTech/svgpath": "^2.5.0",
     "@xmldom/xmldom": "^0.7.2"
   },
   "devDependencies": {
