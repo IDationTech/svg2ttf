@@ -64,3 +64,9 @@ fs.writeFileSync('myfont.ttf', new Buffer(ttf.buffer));
 Available as part of the Tidelift Subscription.
 
 The maintainers of `svg2ttf` and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/npm-svg2ttf?utm_source=npm-svg2ttf&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
+
+## License and Copyright
+
+This software is released under the terms of the [MIT license](https://github.com/IDationTech/svg2ttf/blob/master/LICENSE).
+
+This project is a derived version of the main project : [https://github.com/fontello/svg2ttf](https://github.com/fontello/svg2ttf).
