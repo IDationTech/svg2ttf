@@ -1,6 +1,6 @@
 {
   "name": "@idationtech/svg2ttf",
-  "version": "6.0.32",
+  "version": "6.0.33",
   "description": "Converts SVG font to TTF font",
   "keywords": [
     "font",
